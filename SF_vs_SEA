@@ -1,0 +1,14 @@
+Hola ! 
+Soy un gran fan de los 49ers, de San Franciso , por lo tanto ODIO a los halcones marinos de Seattle.
+En este pequeño proyecto tome las estadisticas de los 2 juegos por año entre estos dos equipos
+del año 2019 al 2024, queriendo encontrar mejores jugadores y posiciones por parte de los 49ers.
+
+Encontrararn varios archivos csv, el primero es el original con la informacion que tome de la pagina
+de ESPN, SF_SEA_19_24.
+
+Encontraran el Archivo de origen Python (.py) , con el manejo de datos y un pequeño analisis de resultados ; 49ers_vs_Seahawks
+
+y al final encontraran dos archivos extras, jugadores_data, que es la informacion limpia del analisis anterior 
+y un archivo de powerbi , con un pequeño dashboard con estadisticas del mismo SF49ers_vs_Seattle
+
+espero lo encuentran atractivo e interesante! 
